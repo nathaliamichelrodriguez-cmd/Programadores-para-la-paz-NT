@@ -1,0 +1,5 @@
+La ruta POST /reporte sirve para recibir información enviada por el usuario.
+
+La ruta captura un mensaje desde req.body y responde con un JSON indicando que el reporte fue recibido.
+
+En una aplicación comunitaria podría servir para enviar alertas, reportes de problemas, denuncias o información importante para la comunidad.
