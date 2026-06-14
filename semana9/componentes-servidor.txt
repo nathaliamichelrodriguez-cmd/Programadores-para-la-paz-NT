@@ -1,0 +1,19 @@
+
+
+SISTEMA OPERATIVO: Es el programa que controla
+el funcionamiento basico del computador lo cual 
+permite ejecutar aplicaciones y administrar los 
+recursos del equipo
+
+NODE.JS: Es una herramienta que permite correr
+codigo JavaScript en el archivo y se utiliza 
+para desarrollar aplicaciones web
+
+APLICACION SERVER.JS: Es el archivo donde se
+encuentra la programacion del servidor 
+
+PUERTO: Es un número que identifica el canal
+por el que un servidor recibe y envía informacion 
+
+LOGS: Son registros que guardan información sobre
+lo que ocurre en el sistema o servidor 

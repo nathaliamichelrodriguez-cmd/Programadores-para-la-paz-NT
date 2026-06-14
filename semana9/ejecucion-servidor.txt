@@ -1,0 +1,13 @@
+al ejecutar el comando node server.js el servidor 
+se inicia y queda preparado para recibir solicitudes.
+En la terminal aparece un mensaje que indica que el
+servidor esta funcionando correctamente, por lo 
+general muestra el puerto en el que esta escuchando
+Cuando se visita la ruta /estado desde el navegador
+el servidor responde con información en formato JSON
+lo que confirma que el API esta activo y funcionando
+
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
