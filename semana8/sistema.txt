@@ -1,0 +1,11 @@
+el comando uname -a muestra informacion del sistema
+operativo, como su nombre, version y arquitectura.
+el comando whoami indica el nombre del usuario que
+esta utilizando la sesion actual 
+
+
+Esta informacion es util al administrar un servidor 
+ya que permite conocer caracteristicas del sistama 
+y que ademas permite verificar que usuario esta 
+ejecutando los comandos, facilitando la gestión y
+solución de problemas

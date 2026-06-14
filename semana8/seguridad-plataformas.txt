@@ -1,0 +1,5 @@
+• No exponer datos personales
+• Proteger los datos personales de los usuarios
+• Realizar copias de seguridad
+• Registrar accesos
+• Limitar acceso a información sensible
