@@ -1,0 +1,12 @@
+El login permite ingresar
+a una aplicación usando
+un usuario y una contraseña.
+
+Las rutas protegidas evitan
+que personas no autorizadas
+accedan a la información.
+
+No deben publicarse
+contraseñas, documentos,
+direcciones, teléfonos
+ni otros datos personales.

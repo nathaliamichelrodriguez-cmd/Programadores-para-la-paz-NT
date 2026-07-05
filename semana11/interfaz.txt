@@ -1,0 +1,15 @@
+La interfaz tendría
+un formulario para crear
+una nueva causa.
+
+También mostraría
+una lista de causas
+disponibles.
+
+Cada causa tendría
+un botón para apoyar
+y un contador de apoyos.
+
+La información personal
+de los usuarios
+no sería pública.

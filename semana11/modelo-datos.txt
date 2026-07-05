@@ -1,0 +1,23 @@
+Entidad: Reporte
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- ubicacion
+- fecha
+
+Propósito:
+Guardar los reportes realizados por los ciudadanos.
+
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre
+- correo
+- telefono
+
+Propósito:
+Registrar la información de las personas que envían reportes. 
+
