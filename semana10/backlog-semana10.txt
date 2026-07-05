@@ -1,0 +1,9 @@
+1. Como residente quiero reportar situaciones sospechosas en mi barrio para contribuir a la seguridad de la comunidad. (Prioridad Alta)
+
+2. Como coordinador de seguridad quiero recibir alertas inmediatas sobre nuevos reportes para actuar rápidamente. (Prioridad Alta)
+
+3. Como residente quiero consultar los incidentes reportados cerca de mi ubicación para mantenerme informado. (Prioridad Media)
+
+4. Como miembro de la comunidad quiero recibir notificaciones sobre alertas de seguridad en mi sector para tomar precauciones. (Prioridad Media)
+
+5. Como administrador quiero generar informes mensuales de incidentes para analizar tendencias y planificar acciones preventivas. (Prioridad Baja)

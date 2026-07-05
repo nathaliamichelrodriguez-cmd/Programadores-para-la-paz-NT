@@ -1,0 +1,14 @@
+Evento:
+El usuario envía un nuevo reporte.
+
+Acción:
+n8n envía una alerta a Telegram.
+
+Mensaje:
+"Hay un nuevo reporte.
+Por favor, revíselo."
+
+No enviar:
+- Datos personales.
+- Contraseñas.
+- Información confidencial.
