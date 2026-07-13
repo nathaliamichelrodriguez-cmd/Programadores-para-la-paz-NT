@@ -1,0 +1,5 @@
+Evento: Cada vez que un ciudadano crea una nueva causa en la plataforma, n8n detecta el registro y activa automáticamente el flujo de trabajo.
+Mensaje: "Se ha creado una nueva causa en la plataforma Petición en 3 Clics. Ya está disponible para que otros ciudadanos la consulten y puedan brindar su apoyo."
+Información que no debe enviarse: Por seguridad, el mensaje no debe incluir cédulas, números de teléfono, direcciones, correos electrónicos, contraseñas, firmas digitales, comentarios privados ni ningún otro dato personal o información sensible de los usuarios registrados.
+
+

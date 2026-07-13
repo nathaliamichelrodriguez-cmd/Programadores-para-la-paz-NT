@@ -1,0 +1,9 @@
+1. El usuario inicia sesion en la plataforma
+2. Crea una nueva petición con la información
+requerida
+3. El sistema registra la petición en la base
+de datos
+4. La comunidad puede consultar la petición
+5. Los ciudadanos apoyan la iniciativa con un clic
+6. El sistema reune los apoyos y crea un archivo
+PDF  para presentar la petición 
